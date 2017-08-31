@@ -11,6 +11,7 @@ if (process.env.JAWDB_URL) {
   password: "sarah0114",
   database: "burgers_db"
 });
+}  
 
 connection.connect();
 
