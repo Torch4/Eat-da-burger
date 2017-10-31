@@ -1,4 +1,4 @@
-
+-- Insert preliminary data
 USE `burgers_db`;
 
 INSERT INTO `burgers` (burger_name, devoured, date) VALUES ('Mushroom Swiss', false, CURRENT_TIMESTAMP);
